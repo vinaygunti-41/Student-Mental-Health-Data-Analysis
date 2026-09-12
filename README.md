@@ -29,6 +29,90 @@ Using **Python** and **Exploratory Data Analysis (EDA)** techniques, this projec
 
 ---
 
+<img width="1057" height="687" alt="Image" src="https://github.com/user-attachments/assets/e64a1e85-5c31-4863-b5fd-b188eb2e21b3" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="Image" src="https://github.com/user-attachments/assets/5e10e60c-c195-4361-b7d5-8fd5f7a839f2" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="Image" src="https://github.com/user-attachments/assets/fdb7fe5e-653a-435e-9e73-89b2d6ed4e2d" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="Image" src="https://github.com/user-attachments/assets/77703334-9b2d-4606-a2e3-b30852a596a7" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="Image" src="https://github.com/user-attachments/assets/608de77f-fb03-4922-a309-69850801662f" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="Image" src="https://github.com/user-attachments/assets/caf0100e-2a13-46a7-bcf0-d785b4243787" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="7" src="https://github.com/user-attachments/assets/02ab927a-5a38-420f-b3d1-41581c392c3e" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="Screenshot 2026-09-12 213826" src="https://github.com/user-attachments/assets/8cf9e833-85d5-4b86-9c25-68ca89bb8551" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="9" src="https://github.com/user-attachments/assets/c7a08c38-8037-4dc7-af20-cf7d7727c8f4" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="10" src="https://github.com/user-attachments/assets/05951de2-d302-4896-990e-7c3fcff3d009" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="Screenshot 2026-09-12 214142" src="https://github.com/user-attachments/assets/b9fca0ca-a496-4a1d-a44e-983b85d70062" />
+
+
+
+
+
+
+<img width="1057" height="687" alt="12" src="https://github.com/user-attachments/assets/108a128f-7a8e-4b3e-997f-53b54c60116b" />
+
+
+
+
+---
+
 # 🎯 Objectives
 
 - 📖 Understand students' mental health conditions.
